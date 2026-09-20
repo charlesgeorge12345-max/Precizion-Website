@@ -2,36 +2,6 @@
   "redirects": [
     {
       "source": "/index.php",
-      "has": [{ "type": "query", "key": "id", "value": "contact" }],
-      "destination": "/#contact",
-      "permanent": true
-    },
-    {
-      "source": "/index.php",
-      "has": [{ "type": "query", "key": "id", "value": "promo-solutions" }],
-      "destination": "/#offerings",
-      "permanent": true
-    },
-    {
-      "source": "/index.php",
-      "has": [{ "type": "query", "key": "id", "value": "company" }],
-      "destination": "/#about",
-      "permanent": true
-    },
-    {
-      "source": "/index.php",
-      "has": [{ "type": "query", "key": "id", "value": "events-solutions" }],
-      "destination": "/#offerings",
-      "permanent": true
-    },
-    {
-      "source": "/index.php",
-      "has": [{ "type": "query", "key": "id", "value": "display-signage-solutions" }],
-      "destination": "/#offerings",
-      "permanent": true
-    },
-    {
-      "source": "/index.php",
       "destination": "/",
       "permanent": true
     }
